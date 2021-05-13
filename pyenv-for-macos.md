@@ -11,7 +11,7 @@ Like many things IT, there are multiple ways of doing the same thing and sometim
 
    ![screen shot here](assets/screenshots/macos/step2.png)
 
-   If there is an error then you will probably need to install Homebrew on your machine.
+   If there is an error then you will probably need to install Homebrew on your machine. Visit their [homepage](https://brew.sh) for more information.
 
 3. Next update Homebrew and then install the pyenv package.
    
