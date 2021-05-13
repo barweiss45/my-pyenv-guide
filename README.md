@@ -8,8 +8,8 @@ Purpose
 
 The purpose of this article is to provide a quick guide of how to install pyenv on MacOS, Windows, and Linux. For more information regarding how pyenv works and how especially how it uses shims in the system path to intercept a call to the Python binary then see Pyenv Github repository for a very straightforward and easy to understand explanation (See [Understanding Shims](https://github.com/pyenv/pyenv#understanding-shims)) . Also see this [blog](https://mungingdata.com/python/how-pyenv-works-shims/) for a very detailed explanation of Pyenv.
 
-# TOC
-- [Pyenv for MacOS](pyenv-for-macos.html)
-- [Windows Python Launcher & pyenv-win for Windows](windows-python-launcher.html)
-- [Pyenv for Windows](pyenv-for-windows.html)
-- [Pyenv for Linux](pyenv-for-linux.html)
+## TOC
+- [Pyenv for MacOS](pyenv-for-macos.md)
+- [Windows Python Launcher & pyenv-win for Windows](windows-python-launcher.md)
+- [Pyenv for Windows](pyenv-for-windows.md)
+- [Pyenv for Linux](pyenv-for-linux.md)
