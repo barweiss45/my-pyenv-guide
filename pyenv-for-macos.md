@@ -9,4 +9,10 @@ Like many things IT, there are multiple ways of doing the same thing and sometim
    ![screen shot here](assets/screenshots/macos/step2.png)
 
    If there is an error then you will probably need to install Homebrew on your machine.
-3. 
+3. Next update Homebrew and then install the pyenv package.
+   
+   <code>> brew update && brew install pyenv</code>
+
+   Please be aware that brew may take a bit as it updates and install pyenv.
+
+4. Once the installation has completed, then verify that that pyenv has been installed properly. You should see the latest version installed if you used the instructions from above.
