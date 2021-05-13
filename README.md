@@ -10,7 +10,7 @@ The purpose of this article is to provide a quick guide of how to install pyenv 
 
 ## TOC
 - [Pyenv for MacOS](pyenv-for-macos.md)
-- [The Python Launcher Windows](windows-python-launcher.md)
+- [The Windows Python Launcher](windows-python-launcher.md)
 - [Pyenv for Windows](pyenv-for-windows.md)
 - [Pyenv for Linux](pyenv-for-linux.md)
 
