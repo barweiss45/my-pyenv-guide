@@ -3,7 +3,10 @@ Like many things IT, there are multiple ways of doing the same thing and sometim
 
 1. Before starting the installation to the pyenv first review this page Pyenv's [suggested build environment's page](https://github.com/pyenv/pyenv/wiki#suggested-build-environment) to ensure that your environment has the correct dependencies installed. 
 2. Verify that you have homebrew on your Mac. Open your terminal and for your Mac and type the following.
+   
    <code>> brew --version</code>
-   screen shot here
+   
+   ![screen shot here](assets/screenshots/macos/step2.jpg)
+
    If there is an error then you will probably need to install Homebrew on your machine.
 3. 
