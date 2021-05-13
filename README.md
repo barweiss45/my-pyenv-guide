@@ -13,3 +13,8 @@ The purpose of this article is to provide a quick guide of how to install pyenv 
 - [Windows Python Launcher & pyenv-win for Windows](windows-python-launcher.md)
 - [Pyenv for Windows](pyenv-for-windows.md)
 - [Pyenv for Linux](pyenv-for-linux.md)
+
+---
+Written by Barry Weiss
+
+Email: [barweiss@cisco.com](mailto:barweiss@cisco.com)
