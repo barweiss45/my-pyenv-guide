@@ -77,7 +77,7 @@ Like many things IT, there are multiple ways of doing the same thing and sometim
    If you want the diretory to be set back to the global version, the use the '`pyenv local --unset`' command to set it back to the global version.
 
    ![Screenshot of the output of pyenv local](assets/screenshots/macos/setp11.png)
-
+   
 12. If you have more than one version of Python installed on your system by pyenv you can view it by running the following command. The asterisk represents the current version that is activation in your current location.
 
    ![Screenshot of the output of 'pyenv versions'](assets/screenshots/macos/step12.png)
