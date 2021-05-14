@@ -74,6 +74,7 @@ Like many things IT, there are multiple ways of doing the same thing and sometim
     ![Screenshot of the output of switching the global python version](assets/screenshots/macos/step10.png)
     
 11. Pyenv will also allow you to set a Python version for a particular directory. When you use the '`pyenv local [version_number]`' command it will set the version for the current diectory and will only run within the directory. Once you leave the directory, you will go back to the global version or system version. Depending on what was set. **NOTE: This is not the same as a virtual environment, this just means when you leave that folder you’ll go back to the globally configured version.** 
+   
    If you want the diretory to be set back to the global version, the use the '`pyenv local --unset`' command to set it back to the global version.
 
    ![Screenshot of the output of pyenv local](assets/screenshots/macos/setp11.png)
