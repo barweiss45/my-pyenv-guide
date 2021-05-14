@@ -70,15 +70,15 @@ Like many things IT, there are multiple ways of doing the same thing and sometim
    `pyenv global 3.9.4`
 
 10. If you want to change to a different installed Python version by Pyenv, then simply change it by re-running the '`pyenv global [version_number]`' with the desired version number. Global will change the version of python for the entire environment. So regardless of where you are in the terminal you will be running the version configured by this command.
-    
-    ![Screenshot of the output of switching the global python version](assets/screenshots/macos/step10.png)
-    
-11. Pyenv will also allow you to set a Python version for a particular directory. When you use the '`pyenv local [version_number]`' command it will set the version for the current diectory and will only run within the directory. Once you leave the directory, you will go back to the global version or system version. Depending on what was set. **NOTE: This is not the same as a virtual environment, this just means when you leave that folder you’ll go back to the globally configured version.** 
    
-   If you want the diretory to be set back to the global version, the use the '`pyenv local --unset`' command to set it back to the global version.
+      ![Screenshot of the output of switching the global python version](assets/screenshots/macos/step10.png)
+   
+11. Pyenv will also allow you to set a Python version for a particular directory. When you use the '`pyenv local [version_number]`' command it will set the version for the current diectory and will only run within the directory. Once you leave the directory, you will go back to the global version or system version. Depending on what was set. **NOTE: This is not the same as a virtual environment, this just means when you leave that folder you’ll go back to the globally configured version.** 
 
-   ![Screenshot of the output of pyenv local](assets/screenshots/macos/setp11.png)
+      If you want the diretory to be set back to the global version, the use the '`pyenv local --unset`' command to set it back to the global version.
+
+      ![Screenshot of the output of pyenv local](assets/screenshots/macos/setp11.png)
    
 12. If you have more than one version of Python installed on your system by pyenv you can view it by running the following command. The asterisk represents the current version that is activation in your current location.
-
-   ![Screenshot of the output of 'pyenv versions'](assets/screenshots/macos/step12.png)
+    
+    ![Screenshot of the output of 'pyenv versions'](assets/screenshots/macos/step12.png)
