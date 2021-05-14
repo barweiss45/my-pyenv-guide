@@ -17,6 +17,8 @@ The purpose of this article is to provide a quick guide of how to install pyenv 
 ## A Quick Word about Pip
 It worth noting that using pip is a breeze when using Pyenv. I always ran into issues with Pip installing a package into the correct version of python when I had multiple versions installed. Here you can see pip is pointing at the expected “site_packages” folders when I change versions.
 
+![Screenshot of pip output](assets/screenshots/readme/pip.png)
+
 ---
 Written by Barry Weiss
 
