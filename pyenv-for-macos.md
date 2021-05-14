@@ -28,7 +28,7 @@ Like many things IT, there are multiple ways of doing the same thing and sometim
 5. Next to ensure that pyenv operates properly you will want to add the following to the **.zshrc** file. See the [Pyenv repository](https://github.com/pyenv/pyenv) for more information as there may be special exceptions.
    
    Use the command line editor of your choice (nano, vim, etc.) and then copy and paste the following where appropriate in the **.zshrc** file.
-```
+~~~
 # DEFINE ENVIRONMENTAL VARAILBLE TO POOINT TO THE PATH WHERE PYENV IS LOCATED
 # ADD THE $PYENV_ROOT/bin TO $PATH
 export PYENV_ROOT="$HOME/.pyenv"
@@ -39,7 +39,8 @@ eval "$(pyenv init --path)"
 if command -v pyenv 1>/dev/null 2>&1; then
    eval "$(pyenv init -)"
 fi
-```
+~~~
+
 - Here you can see me update my ~/.zshrc with the `nano` editor.
 
   ![Screenshot of .zshrc configuration](assets/screenshots/macos/step5.png)
